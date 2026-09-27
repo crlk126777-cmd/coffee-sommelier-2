@@ -1,0 +1,7 @@
+{
+  "name": "Кофейный сомелье",
+  "description": "Персональный AI-помощник по выбору, обжарке и приготовлению кофе на основе базы знаний Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
